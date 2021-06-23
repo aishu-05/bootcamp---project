@@ -1,0 +1,8 @@
+Enter the city name: Nedumangad
+****************
+Weather Stats for - NEDUMANGAD  || 23 Jun 2021 | 07:54:24 AM
+_______________________________
+Current temperature is: 29.60 deg C
+Current weather desc  : few clouds
+Current Humidity      : 79 %
+Current wind speed    : 2.57 kmph
